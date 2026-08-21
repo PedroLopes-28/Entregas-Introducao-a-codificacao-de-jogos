@@ -44,6 +44,9 @@ TagManager:
   - name: Background
     uniqueID: 1624770891
     locked: 0
+  - name: Tiro
+    uniqueID: 1117361523
+    locked: 0
   - name: Nave
     uniqueID: 1237948025
     locked: 0
